@@ -1,0 +1,16 @@
+D:\Project\Project C#\KPP4\KPP4\bin\Debug\net6.0\KPP4.exe
+D:\Project\Project C#\KPP4\KPP4\bin\Debug\net6.0\KPP4.deps.json
+D:\Project\Project C#\KPP4\KPP4\bin\Debug\net6.0\KPP4.runtimeconfig.json
+D:\Project\Project C#\KPP4\KPP4\bin\Debug\net6.0\KPP4.dll
+D:\Project\Project C#\KPP4\KPP4\bin\Debug\net6.0\KPP4.pdb
+D:\Project\Project C#\KPP4\KPP4\obj\Debug\net6.0\KPP4.GeneratedMSBuildEditorConfig.editorconfig
+D:\Project\Project C#\KPP4\KPP4\obj\Debug\net6.0\KPP4.AssemblyInfoInputs.cache
+D:\Project\Project C#\KPP4\KPP4\obj\Debug\net6.0\KPP4.AssemblyInfo.cs
+D:\Project\Project C#\KPP4\KPP4\obj\Debug\net6.0\KPP4.csproj.CoreCompileInputs.cache
+D:\Project\Project C#\KPP4\KPP4\obj\Debug\net6.0\KPP4.dll
+D:\Project\Project C#\KPP4\KPP4\obj\Debug\net6.0\refint\KPP4.dll
+D:\Project\Project C#\KPP4\KPP4\obj\Debug\net6.0\KPP4.pdb
+D:\Project\Project C#\KPP4\KPP4\obj\Debug\net6.0\KPP4.genruntimeconfig.cache
+D:\Project\Project C#\KPP4\KPP4\obj\Debug\net6.0\ref\KPP4.dll
+D:\Project\Project C#\KPP4\KPP4\obj\Debug\net6.0\KPP4.Properties.Resources.resources
+D:\Project\Project C#\KPP4\KPP4\obj\Debug\net6.0\KPP4.csproj.GenerateResource.cache
